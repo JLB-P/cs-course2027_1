@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/repo/cs-course/cs-course2027_1/comp_eq_1b/project_1/project_1.srcs/constrs_1/imports/digilent-xdc-master/Basys-3-Master.xdc rfile:../../../project_1.srcs/constrs_1/imports/digilent-xdc-master/Basys-3-Master.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:12 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN V17   IOSTANDARD LVCMOS33 } [get_ports {a}]
+set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN V16   IOSTANDARD LVCMOS33 } [get_ports {b}]
+set_property src_info {type:XDC file:1 line:31 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN U16   IOSTANDARD LVCMOS33 } [get_ports {eq}]
