@@ -56,8 +56,7 @@ if {$::dispatch::connected} {
 }
 
 OPTRACE "synth_1" START { ROLLUP_AUTO }
-set_param chipscope.maxJobs 4
-set_param synth.incrementalSynthesisCache C:/Users/josel/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-11612-jlbpacheco/incrSyn
+set_param synth.incrementalSynthesisCache C:/Users/josel/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-14456-jlbpacheco/incrSyn
 set_param checkpoint.writeSynthRtdsInDcp 1
 set_msg_config -id {Synth 8-256} -limit 10000
 set_msg_config -id {Synth 8-638} -limit 10000
@@ -91,6 +90,8 @@ read_xdc C:/repo/cs-course/cs-course2027_1/comp_eq_1b/project_1/project_1.srcs/c
 set_property used_in_implementation false [get_files C:/repo/cs-course/cs-course2027_1/comp_eq_1b/project_1/project_1.srcs/constrs_1/imports/digilent-xdc-master/Basys-3-Master.xdc]
 
 set_param ips.enableIPCacheLiteLoad 1
+
+read_checkpoint -auto_incremental -incremental C:/repo/cs-course/cs-course2027_1/comp_eq_1b/project_1/project_1.srcs/utils_1/imports/synth_1/comp_eq_1b.dcp
 close [open __synthesis_is_running__ w]
 
 OPTRACE "synth_design" START { }
