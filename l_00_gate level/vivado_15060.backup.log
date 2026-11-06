@@ -1,0 +1,59 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Oct  9 12:42:01 2026
+# Process ID         : 15060
+# Current directory  : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9600 C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.xpr
+# Log file           : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level/vivado.log
+# Journal file       : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level\vivado.jou
+# Running On         : jlbpacheco
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 5800HS with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 42311 MB
+# Swap memory        : 2684 MB
+# Total Virtual      : 44995 MB
+# Available Virtual  : 27908 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level/l_00_gate level.xpr}
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:genesys2:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys2/H/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:gzu_3eg:part0:1.0 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys-zu-3eg/B.0/board.xml as part xczu3eg-sfvc784-1-e specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:gzu_3eg:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys-zu-3eg/D.0/board.xml as part xczu3eg-sfvc784-1-e specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:gzu_5ev:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys-zu-5ev/C.0/board.xml as part xczu5ev-sfvc784-1-e specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:sword:part0:1.0 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/sword/C.0/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+INFO: [Project 1-313] Project file moved from 'C:/repo/systemverilog/l_00_gate level' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level/l_00_gate level.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:31 ; elapsed = 00:00:12 . Memory (MB): peak = 1220.121 ; gain = 148.855
+update_compile_order -fileset sources_1
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.srcs\sources_1\new\eq_comp_2bit.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.srcs\sources_1\new\eq_comp_1bit.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.srcs\sources_1\new\eq_comp_2bit.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.srcs\sources_1\new\eq_comp_2bit.sv:]
+ERROR: [Common 17-180] Spawn failed: No error
+close_project
+open_project {C:/repo/dsd-courses/digital-systems-design-course2027_1/l_03_gate level_eq_comp_2bit_always block/l_03_gate level_eq_comp_2bit_always block.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/repo/dsd-courses/digital-systems-design-course2027_1/l_03_gate level_eq_comp_2bit_always block'
+INFO: [Project 1-313] Project file moved from 'C:/repo/my-systemverilog-code/digital-systems-design-course/l_03_gate level_eq_comp_2bit_always block' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/repo/dsd-courses/digital-systems-design-course2027_1/l_03_gate level_eq_comp_2bit_always block/l_03_gate level_eq_comp_2bit_always block.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+WARNING: [Board 49-151] The current board 'digilentinc.com::basys3:1.2' is from a local repo. The vivado install has a corresponding board with version greater than or equal to the local repo board. Please use boards from vivado install to avoid any upgrade/migrate issues
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Oct  9 12:58:08 2026...

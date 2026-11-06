@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Oct  9 12:42:01 2026
+# Process ID         : 15060
+# Current directory  : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9600 C:\repo\dsd-courses\digital-systems-design-course2027_1\l_00_gate level\l_00_gate level.xpr
+# Log file           : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level/vivado.log
+# Journal file       : C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level\vivado.jou
+# Running On         : jlbpacheco
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 5800HS with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 42311 MB
+# Swap memory        : 2684 MB
+# Total Virtual      : 44995 MB
+# Available Virtual  : 27908 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/repo/dsd-courses/digital-systems-design-course2027_1/l_00_gate level/l_00_gate level.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/repo/dsd-courses/digital-systems-design-course2027_1/l_03_gate level_eq_comp_2bit_always block/l_03_gate level_eq_comp_2bit_always block.xpr}
+update_compile_order -fileset sources_1

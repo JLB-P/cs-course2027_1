@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Aug 26 10:34:49 2026
+# Process ID         : 22964
+# Current directory  : C:/repo/systemverilog/l_00_gate level/l_00_gate level.runs/impl_1
+# Command line       : vivado.exe -log eq_comp_2bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source eq_comp_2bit.tcl -notrace
+# Log file           : C:/repo/systemverilog/l_00_gate level/l_00_gate level.runs/impl_1/eq_comp_2bit.vdi
+# Journal file       : C:/repo/systemverilog/l_00_gate level/l_00_gate level.runs/impl_1\vivado.jou
+# Running On         : jlbpacheco
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 5800HS with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 42311 MB
+# Swap memory        : 2684 MB
+# Total Virtual      : 44995 MB
+# Available Virtual  : 32665 MB
+#-----------------------------------------------------------
+source eq_comp_2bit.tcl -notrace
