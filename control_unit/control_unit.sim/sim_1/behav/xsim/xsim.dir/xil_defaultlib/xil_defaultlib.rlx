@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.sim/sim_1/behav/xsim/glbl.v,1773749342,verilog,,,,glbl,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sim_1/new/tb_gcd.sv,1794595996,systemVerilog,,,,tb_gcd,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/comparador.sv,1794595860,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/comparador_igualdad.sv,,comparador,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/comparador_igualdad.sv,1794595848,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/gcd_top.sv,,comparador_igualdad,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/gcd_top.sv,1794595108,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/multiplexor.sv,,gcd_top,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/multiplexor.sv,1794594972,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/registro.sv,,multiplexor,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/registro.sv,1794593702,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/restador.sv,,registro,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/restador.sv,1794593702,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/unidad_control.sv,,restador,,uvm,,,,,,
+C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sources_1/new/unidad_control.sv,1794595434,systemVerilog,,C:/repo/cs-course/cs-course2027_1/control_unit/control_unit.srcs/sim_1/new/tb_gcd.sv,,unidad_control,,uvm,,,,,,
